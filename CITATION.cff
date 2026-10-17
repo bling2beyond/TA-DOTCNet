@@ -1,0 +1,48 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying paper."
+title: "TA-DOTCNet"
+type: software
+url: "https://github.com/bling2beyond/TA-DOTCNet"
+repository-code: "https://github.com/bling2beyond/TA-DOTCNet"
+license: MIT
+authors:
+  - family-names: Zhao
+    given-names: Yue
+  - family-names: Fang
+    given-names: Haoyang
+  - family-names: Gong
+    given-names: Maoguo
+  - family-names: Wang
+    given-names: Zhao
+  - family-names: Mei
+    given-names: Xin
+  - family-names: Yu
+    given-names: Hua
+  - family-names: Zhang
+    given-names: Lianzhong
+  - family-names: Ong
+    given-names: Yew-Soon
+preferred-citation:
+  type: article
+  title: "Text-Anchored Deep Optimal Transport Clustering for Remote Sensing Cross-Scene Classification"
+  authors:
+    - family-names: Zhao
+      given-names: Yue
+    - family-names: Fang
+      given-names: Haoyang
+    - family-names: Gong
+      given-names: Maoguo
+    - family-names: Wang
+      given-names: Zhao
+    - family-names: Mei
+      given-names: Xin
+    - family-names: Yu
+      given-names: Hua
+    - family-names: Zhang
+      given-names: Lianzhong
+    - family-names: Ong
+      given-names: Yew-Soon
+  journal: "IEEE Transactions on Geoscience and Remote Sensing"
+  year: 2026
+  doi: "10.1109/TGRS.2026.3740705"
+  url: "https://ieeexplore.ieee.org/document/11721406"

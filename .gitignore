@@ -1,0 +1,41 @@
+# Python caches and virtual environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Local configuration and secrets
+.env
+.env.*
+*.pem
+*.key
+
+# Datasets and model artifacts
+data/
+dataset/
+datasets/
+weights/
+*.pt
+*.pth
+*.ckpt
+*.pkl
+*.npz
+*.npy
+
+# Generated experiment outputs
+outputs/
+record*/
+test_run/
+plots_manual/
+*.log
+*.xlsx*
+*.zip
+
+# Editor and operating-system files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
